@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncStreamsAPI", "AsyncStr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncStreamsClient", "AsyncStreamsClient\AsyncStreamsClient.csproj", "{A60EB9EB-7987-4FB6-AA3B-2FAE9D9F769A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EverythingElse", "EverythingElse\EverythingElse.csproj", "{534E9693-769A-4862-8E48-F0757CC3C96B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{A60EB9EB-7987-4FB6-AA3B-2FAE9D9F769A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A60EB9EB-7987-4FB6-AA3B-2FAE9D9F769A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A60EB9EB-7987-4FB6-AA3B-2FAE9D9F769A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{534E9693-769A-4862-8E48-F0757CC3C96B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{534E9693-769A-4862-8E48-F0757CC3C96B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{534E9693-769A-4862-8E48-F0757CC3C96B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{534E9693-769A-4862-8E48-F0757CC3C96B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

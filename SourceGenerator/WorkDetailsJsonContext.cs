@@ -6,6 +6,5 @@ namespace SourceGenerator
     [JsonSourceGenerationOptions(PropertyNamingPolicy = JsonKnownNamingPolicy.CamelCase)]
     public partial class WorkDetailsJsonContext : JsonSerializerContext
     {
-        
     }
 }
